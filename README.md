@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://sabithx.github.io/Portfolio/](https://sabithx.github.io/Portfolio/)
-
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **sabithmk323@gmail.com**
