@@ -9,7 +9,7 @@ Backend developer proficient in ASP.NET Core for building robust APIs and servic
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://sabithx.github.io/Portfolio/](http://sabithx.github.io/Portfolio/)
 * ✉️  You can contact me at [sabithmk323@gmail.com](mailto:sabithmk323@gmail.com)
-* 🚀  I'm currently working on [Bridgeon Solution](http://bridgeon.in/)
+* 🚀  I'm currently working on [Infogate Technologies](https://infogate-sa.com/)
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
